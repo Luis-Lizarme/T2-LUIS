@@ -1,12 +1,15 @@
 import { Fragment } from 'react';
 import Menu from './componentes/Menu'
+import Carrusel from './componentes/Carrusel'
+
 
 function App(){
   return (
     <>
-    <Menu />
-    <Menu />
-    <Menu />
+    <Menu /> 
+     <br />
+    <Carrusel />
+
     </>
   )
 }
