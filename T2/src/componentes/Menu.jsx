@@ -6,7 +6,7 @@ return (
     <div>
       <header>
         <div className="logo">
-          <h1>Mio Turismo</h1>
+          <h1>Todo Turismo</h1>
         </div>
         <nav>
           <ul>
