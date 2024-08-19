@@ -157,3 +157,15 @@ body {
 .image-container div:hover img {
   opacity: 0.3;
 }
+
+.footer {
+  background-color: #FFD700; 
+  border-bottom: 5px solid #FF1493; 
+  padding: 10px;
+  text-align: center;
+}
+.footer a {
+  color: black; 
+  margin: 0 10px;
+  text-decoration: none;
+}
