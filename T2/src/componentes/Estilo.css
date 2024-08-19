@@ -105,3 +105,19 @@ body {
   height: auto;
   border-radius: 8px;
 }
+
+.time-and-date-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+
+.current-time {
+  font-size: 2em;
+  margin: 10px 0;
+}
+
+.current-date {
+  font-size: 1.5em;
+  color: #555;
+}
