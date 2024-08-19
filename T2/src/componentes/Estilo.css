@@ -121,3 +121,39 @@ body {
   font-size: 1.5em;
   color: #555;
 }
+
+.image-container {
+  background-color: #0192c6;
+  display: flex;
+}
+.image-container div {
+  position: relative;
+  margin: 10px;
+}
+.image-container img {
+  border-radius: 13px;
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.3s;
+}
+.image-container .overlay {
+  border-radius: 13px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+.image-container div:hover .overlay {
+  opacity: 1;
+}
+.image-container div:hover img {
+  opacity: 0.3;
+}
