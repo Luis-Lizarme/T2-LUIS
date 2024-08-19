@@ -7,7 +7,7 @@ function Conoce() {
       <div className='banner2-text'>
         <h1>Conoce lugares sorprendentes</h1>
         <p>
-          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.
+        “Ven a descubrir Perú con tus amigos. Desde la majestuosidad de Machu Picchu hasta la vibrante vida nocturna de Lima, cada rincón ofrece una aventura única. Explora la selva amazónica, disfruta de la deliciosa gastronomía y sumérgete en la rica cultura peruana. ¡Una experiencia inolvidable te espera!”
         </p>
       </div>
       <div className='banner-image'>
