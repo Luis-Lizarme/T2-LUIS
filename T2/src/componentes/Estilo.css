@@ -76,3 +76,32 @@ body {
     height: 314px;
     object-fit: cover;
 }
+
+
+.banner2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.banner2-text {
+  width: 50%;
+  color: #ff00ff; 
+}
+
+.banner2-text h1 {
+  color: #ff00ff; 
+  font-weight: bold;
+}
+
+.banner2-text p {
+  color: #000000; 
+}
+
+.banner-image img {
+  max-width: 500px;
+  height: auto;
+  border-radius: 8px;
+}
